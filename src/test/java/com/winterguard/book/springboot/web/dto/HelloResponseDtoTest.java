@@ -1,5 +1,4 @@
 package com.winterguard.book.springboot.web.dto;
-import com.winterguard.book.springboot.web.web.dto.HelloResponseDto;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 

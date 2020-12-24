@@ -1,4 +1,4 @@
-package com.winterguard.book.springboot.web.web.dto;
+package com.winterguard.book.springboot.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

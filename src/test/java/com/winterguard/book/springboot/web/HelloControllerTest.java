@@ -1,6 +1,5 @@
 package com.winterguard.book.springboot.web;
 
-import com.winterguard.book.springboot.web.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
