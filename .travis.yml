@@ -33,7 +33,7 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
     bucket: springboot-start-project
-    key: springboot-start-project.zip
+    key: springboot-start-project-on.zip
     bundle_type: zip
     application: springboot-start-project
     deployment_group: springboot-start-project-group
