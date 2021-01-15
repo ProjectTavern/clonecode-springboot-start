@@ -5,7 +5,7 @@ PROJECT_NAME=springboot-start-project
 
 echo "> Copy Build Files"
 
-cp $REPOSITORY/zip/*.jar $REPOSITORY/bin
+cp $REPOSITORY/zip/*.jar $REPOSITORY/
 
 echo "> Check current activated application pid"
 
