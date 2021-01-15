@@ -45,6 +45,8 @@ deploy:
     deployment_group: springboot-start-project-group
     region: ap-northeast-2
     wait-until-deployed: true
+    on:
+      branch: main
 
 # CI Mailing
 notifications:
